@@ -1,0 +1,91 @@
+[] [DEBUG]  > run SCRIPTENTRY
+[] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 15:51:19] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 15:51:19] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 15:55:40] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 15:55:40] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:25:35] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:25:35] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:25:35] [INFO]  UML root source directory: src
+[2021-04-30 16:25:35] [INFO]  UML root source directory: dest
+[2021-04-30 16:25:35] [INFO]  PlantUML location: src
+[2021-04-30 16:25:35] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:27:57] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:27:57] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:27:57] [INFO]  UML root source directory: src
+[2021-04-30 16:27:57] [INFO]  UML root source directory: dest
+[2021-04-30 16:27:57] [INFO]  PlantUML location: src
+[2021-04-30 16:27:57] [INFO]  Set UML soruce: src/examples
+[2021-04-30 16:27:57] [INFO]  Set UML destination: dest/examples
+[2021-04-30 16:27:57] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:30:00] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:30:00] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:30:00] [INFO]  UML root source directory: src
+[2021-04-30 16:30:00] [INFO]  UML root source directory: dest
+[2021-04-30 16:30:00] [INFO]  PlantUML location: src
+[2021-04-30 16:30:00] [INFO]  Set UML soruce: src/examples
+[2021-04-30 16:30:00] [INFO]  Set UML destination: dest/examples
+[2021-04-30 16:30:00] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:30:00] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:30:34] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:30:34] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:30:34] [INFO]  UML root source directory: src
+[2021-04-30 16:30:34] [INFO]  UML root source directory: dest
+[2021-04-30 16:30:34] [INFO]  PlantUML location: src
+[2021-04-30 16:30:34] [INFO]  Set UML soruce: src/examples
+[2021-04-30 16:30:34] [INFO]  Set UML destination: dest/examples
+[2021-04-30 16:30:34] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:30:34] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:30:45] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:30:45] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:30:45] [INFO]  UML root source directory: src
+[2021-04-30 16:30:45] [INFO]  UML root source directory: dest
+[2021-04-30 16:30:45] [INFO]  PlantUML location: src
+[2021-04-30 16:30:45] [INFO]  Set UML soruce: src/examples
+[2021-04-30 16:30:45] [INFO]  Set UML destination: dest/examples
+[2021-04-30 16:30:45] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:30:53] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:33:15] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:33:15] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:33:15] [INFO]  UML root source directory: src
+[2021-04-30 16:33:15] [INFO]  UML root source directory: dest
+[2021-04-30 16:33:15] [INFO]  PlantUML location: src
+[2021-04-30 16:33:15] [INFO]  Set UML soruce: src/examples
+[2021-04-30 16:33:15] [INFO]  Set UML destination: dest/examples
+[2021-04-30 16:33:15] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:33:18] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:36:27] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:36:27] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:36:27] [INFO]  UML root source directory: src
+[2021-04-30 16:36:27] [INFO]  PlantUML location: src
+[2021-04-30 16:36:27] [INFO]  Set UML soruce: src/examples
+[2021-04-30 16:36:27] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:36:28] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:37:20] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:37:20] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:37:20] [INFO]  UML root source directory: src
+[2021-04-30 16:37:20] [INFO]  PlantUML location: src
+[2021-04-30 16:37:20] [INFO]  Set UML soruce: src/examples
+[2021-04-30 16:37:20] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:37:20] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:37:44] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:37:44] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:37:44] [INFO]  UML root source directory: src
+[2021-04-30 16:37:44] [INFO]  PlantUML location: src
+[2021-04-30 16:37:44] [INFO]  Set UML soruce: src/examples
+[2021-04-30 16:37:44] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:37:45] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:38:13] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:38:13] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:38:13] [INFO]  UML root source directory: charts
+[2021-04-30 16:38:13] [INFO]  PlantUML location: charts
+[2021-04-30 16:38:13] [INFO]  Set UML soruce: charts/examples
+[2021-04-30 16:38:13] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:38:15] [DEBUG]  < run SCRIPTEXIT
+[2021-04-30 16:39:15] [DEBUG]  > run SCRIPTENTRY
+[2021-04-30 16:39:15] [INFO]  Graphviz location: /usr/bin/dot
+[2021-04-30 16:39:15] [INFO]  UML root source directory: charts
+[2021-04-30 16:39:15] [INFO]  PlantUML location: charts
+[2021-04-30 16:39:15] [INFO]  Set UML soruce: charts/examples/package.uml.txt
+[2021-04-30 16:39:15] [INFO]  Execute PlantUML on source folder and process in destination folder
+[2021-04-30 16:39:17] [DEBUG]  < run SCRIPTEXIT
