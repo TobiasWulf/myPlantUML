@@ -1,0 +1,5 @@
+# merge documentation pdf files
+*.pdf -crlf -diff -merge
+
+# merge java runners
+*.jar -crlf -diff -merge
